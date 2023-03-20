@@ -42,7 +42,7 @@ API Key 由我自己免费提供，请不要滥用，不提供长期服务，请
 
 如果你只需要部署一个你自己用的网站，而不需要定制，那么你完全不需要在本地跑起来，你可以直接点击下面的按钮，然后按照提示操作，然后在 Vercel 中填入环境变量即可。vercel.app 域名已经被墙，但 vercel 本身没有被墙，所以你绑定自己的域名就可以了。如果广泛分享，域名有被墙的风险。
 
-[![Deploy with Vercel](https://vercel.com/button?utm_source=busiyi&utm_campaign=oss)](https://vercel.com/new/clone?repository-url=https://github.com/ourongxing/chatgpt-vercel&env=OPENAI_API_KEY?utm_source=busiyi&utm_campaign=oss)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GOWxx/chatgpt-vercel&env=OPENAI_API_KEY)
 
 不过上面这种方式不容易更新，最好还是先 fork 本仓库，然后在 [Vercel](https://vercel.com/new?utm_source=busiyi&utm_campaign=oss) 中导入你自己的仓库，之后要更新就在 Github 里点击 `Sync fork` 就可以同步更新了。
 
@@ -115,9 +115,7 @@ API Key 由我自己免费提供，请不要滥用，不提供长期服务，请
 
 ## 赞赏
 
-如果本项目对你有所帮助，可以给小猫买点零食，但不接受任何付费功能请求。
-
-![](./assets/reward.gif)
+由 [@ourongxing](https://github.com/ourongxing) 基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发，查看 [源码](https://github.com/ourongxing/chatgpt-vercel)，欢迎自部署。
 
 ## License
 [MIT](./LICENSE)
